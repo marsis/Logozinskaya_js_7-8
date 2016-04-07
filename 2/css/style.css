@@ -1,0 +1,27 @@
+
+
+.hint1, .hint2, .hint3{
+	position: absolute;
+	left: 350px;
+	width: 150px;
+	/*border: 1px solid silver;*/
+	border-radius: 3px;
+	display: none;eight: 30px;
+	text-align: center;
+	color: gray;
+	font-size: 10px;
+	background: #eee;
+}
+
+#lname{
+	position: relative;
+	left: 6px;
+}
+#fname{
+	position: relative;
+	left: 42px;
+}
+#address{
+	position: relative;
+	left: 12px;
+}
